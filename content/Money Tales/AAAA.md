@@ -1,5 +1,5 @@
 +++
-title = "AAAA"
+title = ""
 linkTitle = "AAAA+AAAA"
 weight = 8
 chapter = true
