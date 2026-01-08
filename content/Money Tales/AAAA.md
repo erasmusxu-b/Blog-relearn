@@ -1,8 +1,8 @@
 +++
-title = "芹菜的"
-linkTitle = "AAAA+AAAA"
+title = "芹菜的blog"
+linkTitle = "博客"
 weight = 8
 chapter = true
 +++
 
-测试网页
+芹菜的blog今日上线，祝贺！
